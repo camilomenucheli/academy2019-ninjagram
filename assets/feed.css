@@ -28,7 +28,6 @@ body, html{
 
 .header-feed > .user{
     float: left;
-    border-radius: 150px;
 }
 .header-feed > .cam{
     float: right;

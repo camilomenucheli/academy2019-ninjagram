@@ -1,0 +1,31 @@
+body{
+    background-color: #ffffff;
+    height: 100%;
+}
+
+.content{
+    height: 100%;
+    width: 550px;
+    padding: 12px;
+    background-color: #354463;
+
+}
+
+.center{
+    display: block;
+    margin: 0 auto;
+}
+
+.img-conta{
+    height: 10px;
+}
+
+.user > .exit{
+    float: left;
+}
+.user > .iuser{
+    height: 275px;
+    margin-top: 50px;
+    margin-left: 138px;
+}
+
