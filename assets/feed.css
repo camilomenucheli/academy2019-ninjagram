@@ -1,0 +1,37 @@
+body, html{
+    height: 100%;
+}
+
+.feed{
+    background-color: #fff;
+}
+
+.content > .header-feed{
+    height: 60px;
+    width: 550px;
+    background-color: #354463;
+    padding: 12px;
+
+}
+
+.center{
+    display: block;
+    margin: 0 auto;
+}
+.img-header{
+    height: 60px;
+}
+
+.header-feed > .logo{
+    padding: 0px 130px 0px 130px;
+}
+
+.header-feed > .user{
+    float: left;
+    border-radius: 150px;
+}
+.header-feed > .cam{
+    float: right;
+    color-adjust: #ffffff;
+}
+
